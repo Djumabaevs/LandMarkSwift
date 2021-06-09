@@ -16,6 +16,7 @@
 		347F1404266FC7E10022C24A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 347F1402266FC7E10022C24A /* LaunchScreen.storyboard */; };
 		347F140F266FC7E10022C24A /* LandMarkSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 347F140E266FC7E10022C24A /* LandMarkSwiftTests.swift */; };
 		347F141A266FC7E10022C24A /* LandMarkSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 347F1419266FC7E10022C24A /* LandMarkSwiftUITests.swift */; };
+		347F14282670EEC90022C24A /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 347F14272670EEC90022C24A /* ImageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		347F1415266FC7E10022C24A /* LandMarkSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LandMarkSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		347F1419266FC7E10022C24A /* LandMarkSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandMarkSwiftUITests.swift; sourceTree = "<group>"; };
 		347F141B266FC7E10022C24A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		347F14272670EEC90022C24A /* ImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				347F13F4266FC7DF0022C24A /* AppDelegate.swift */,
 				347F13F6266FC7DF0022C24A /* SceneDelegate.swift */,
 				347F13F8266FC7DF0022C24A /* ViewController.swift */,
+				347F14272670EEC90022C24A /* ImageViewController.swift */,
 				347F13FA266FC7DF0022C24A /* Main.storyboard */,
 				347F1400266FC7E10022C24A /* Assets.xcassets */,
 				347F1402266FC7E10022C24A /* LaunchScreen.storyboard */,
@@ -263,6 +266,7 @@
 			files = (
 				347F13F9266FC7DF0022C24A /* ViewController.swift in Sources */,
 				347F13FF266FC7DF0022C24A /* LandMarkSwift.xcdatamodeld in Sources */,
+				347F14282670EEC90022C24A /* ImageViewController.swift in Sources */,
 				347F13F5266FC7DF0022C24A /* AppDelegate.swift in Sources */,
 				347F13F7266FC7DF0022C24A /* SceneDelegate.swift in Sources */,
 			);
